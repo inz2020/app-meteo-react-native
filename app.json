@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "app-meteo",
+    "slug": "app-meteo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "app-meteo"
+}
