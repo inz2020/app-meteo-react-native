@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "app-meteo",
-    "slug": "app-meteo",
+    "name": "app-meteo-react-native",
+    "slug": "app-meteo-react-native",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
   },
-  "name": "app-meteo"
+  "name": "app-meteo-react-native"
 }
