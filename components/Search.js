@@ -1,6 +1,5 @@
 import React from 'react'
-import {View, TextInput} from 'react-native'
-
+import {View, TextInput} from 'react-native';
 
 export default class  Search extends React.Component{
 const [text, onChangeText] = React.useState("Useless Text");
